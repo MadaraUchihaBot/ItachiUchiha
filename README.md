@@ -1,6 +1,6 @@
 # ItachiUchiha
 
-bash```
+```
 ItachiBot/
 ├── Itachi/
 │   ├── __init__.py
