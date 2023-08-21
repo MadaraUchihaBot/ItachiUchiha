@@ -1,5 +1,5 @@
 # ItachiUchiha
-
+bash```
 ItachiBot/
 ├── Itachi/
 │   ├── __init__.py
@@ -20,3 +20,4 @@ ItachiBot/
 │   └── ...
 ├── requirements.txt
 └── run.py
+```
